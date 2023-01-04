@@ -8,3 +8,5 @@ This repository is built step by step in the tutorial.
 It now includes steps for GitHub
 
 This line is the second change we have made to this file and it corresponds to the tutorial lesson on git pull.
+
+This line corresponds to the lesson on pushing a new branch to github.
